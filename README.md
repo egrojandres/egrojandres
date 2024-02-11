@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @egrojandres
-- 👀 I’m interested in learn POO languages
-- 🌱 I’m currently learning Java and HTML 
-- 💞️ I’m looking to collaborate on (mmmm not yet, im learning)
+- 👋 Hi, I'm @egrojandres
+- 👀 I'm cybersecurity Analyst and telecomunication engineering
+- 🌱 currently learning Python and Kali Tools
+- 💞️ I love Python and programming, always studing
 - 📫 How to reach me follow me in Twitter @egrojandres10 
 
 <!---
